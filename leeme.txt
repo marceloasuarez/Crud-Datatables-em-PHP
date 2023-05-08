@@ -1,0 +1,2 @@
+Instalar um Webserver (Xampp ou Wampserver), criar a tabela: Datatables,
+e importar datatables.sql
